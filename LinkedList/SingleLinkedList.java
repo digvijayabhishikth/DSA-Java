@@ -1,7 +1,5 @@
 package LinkedList;
 
-import java.awt.HeadlessException;
-
 class Node{
     int val;
     Node next;
