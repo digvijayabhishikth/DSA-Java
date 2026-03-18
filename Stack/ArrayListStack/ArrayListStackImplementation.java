@@ -1,4 +1,4 @@
-package Stack;
+package ArrayListStack;
 
 import java.util.*;
 

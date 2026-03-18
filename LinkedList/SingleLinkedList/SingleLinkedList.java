@@ -1,4 +1,4 @@
-package LinkedList;
+package SingleLinkedList;
 
 class Node{
     int val;
@@ -85,6 +85,7 @@ class LinkedList{
             head = null;
             return val;
         }
+        
         Node curr = head;
         Node temp = null;
         int x = 0;

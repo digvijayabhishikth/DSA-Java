@@ -1,7 +1,6 @@
 package StackImplementation;
 
 import java.util.*;
-
 class Stack{
 
     int size;
