@@ -313,7 +313,7 @@ class OptimizedSingleLinkedList{
         ll.display();
 
         System.out.println("Sorted ll is:");
-        ll.sort();
+        // ll.sort();
         ll.display();
 
     }
